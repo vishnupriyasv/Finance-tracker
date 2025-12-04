@@ -506,19 +506,6 @@ lsof -ti:3000 | xargs kill -9
 - [ ] Multi-user accounts and sharing
 - [ ] Two-factor authentication
 - [ ] Data backup and restore
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For support, email support@financetracker.com or open an issue on GitHub.
-
 ---
 
 **Happy Tracking! 💰**
